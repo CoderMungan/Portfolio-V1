@@ -1,6 +1,9 @@
 # Portfolio-V1
 Geliştirilmeye devam ettiğim portfolio!
 
+<h1>Gereksinimler</h1>
+<p>Tailwind, Fontawesome</p>
+
 <h1>Giriş Sayfası Görüntüsü</h1>
 <a href="https://ibb.co/YjzPzyq"><img src="https://i.ibb.co/VB7J7QP/Ekran-Resmi-2023-08-15-22-30-17.png" alt="Ekran-Resmi-2023-08-15-22-30-17" border="0"></a>
 <br>
