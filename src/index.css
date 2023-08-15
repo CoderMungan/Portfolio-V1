@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scrollTop {
+    @apply fixed bottom-10 right-10 bg-blue-500 text-white w-10 h-10 rounded-full flex justify-center items-center cursor-pointer transition-opacity;
+}
+
+.scrollTop.visible {
+    @apply opacity-100;
+}
+
+.scrollTop.hidden {
+    @apply opacity-0;
+}
+
+.scrollTop:hover {
+    @apply opacity-80;
+}
